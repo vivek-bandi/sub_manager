@@ -1,0 +1,7 @@
+POST   /api/auth/signup
+POST   /api/auth/login
+
+POST   /api/subscriptions
+GET    /api/subscriptions
+PUT    /api/subscriptions/:id
+DELETE /api/subscriptions/:id
